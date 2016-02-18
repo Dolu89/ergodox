@@ -34,6 +34,6 @@ price     | shipping | link
 
 
 ###Review
-http://ampersandsoftworks.com/building-a-keyboard-the-ergodox-story/
-https://ruin.io/2015/ergodox-review/
-https://thetechzonelive.com/2014/08/06/ergodox-review.html
+>-http://ampersandsoftworks.com/building-a-keyboard-the-ergodox-story/
+>-https://ruin.io/2015/ergodox-review/
+>-https://thetechzonelive.com/2014/08/06/ergodox-review.html
