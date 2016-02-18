@@ -25,7 +25,7 @@ price     | shipping      | link
 ###keycaps
 price     | shipping | link
 --------- | -------- | -----
-50$       | ?        | http://pimpmykeyboard.com/dsa-pbt-abs-blank-keycap-sets/
+50$       | ?        | http://pimpmykeyboard.com/dsa-pbt-abs-blank-keycap-sets/ (Ergodox base set (24$) and modifier set(26$))
 
 ###case
 price     | shipping | link
@@ -34,6 +34,6 @@ price     | shipping | link
 
 
 ###Review
->-http://ampersandsoftworks.com/building-a-keyboard-the-ergodox-story/
->-https://ruin.io/2015/ergodox-review/
->-https://thetechzonelive.com/2014/08/06/ergodox-review.html
+- http://ampersandsoftworks.com/building-a-keyboard-the-ergodox-story/
+- https://ruin.io/2015/ergodox-review/
+- https://thetechzonelive.com/2014/08/06/ergodox-review.html
