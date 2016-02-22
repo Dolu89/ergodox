@@ -38,3 +38,4 @@ free      | free       | http://www.thingiverse.com/thing:753448 3D printing
 - http://ampersandsoftworks.com/building-a-keyboard-the-ergodox-story/
 - https://ruin.io/2015/ergodox-review/
 - https://thetechzonelive.com/2014/08/06/ergodox-review.html
+- http://forum.bepo.fr/viewtopic.php?id=1072 (~141 euros ?)
